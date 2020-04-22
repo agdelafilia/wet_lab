@@ -1,5 +1,5 @@
 # wet_lab
-A repository for wet lab protocols.
+A repository for wet lab DNA and RNA protocols.
 
 ## Info
 
