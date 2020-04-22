@@ -24,7 +24,7 @@ A protocol for total RNA extraction developed by Andrés G. de la Filia in the L
 -	Micropestles should be handled with care to avoid sample contamination. Do not let micropestle tips touch anything (e.g. ice, surfaces, skin) but the sample. Always use a clean (i.e. autoclaved) micropestle for each sample. Keep micropestles in racks, tip-side up.
 -	Always spin down tubes on a microfuge before opening.
 
-## Protocol
+## Workflow
 
 ### Part 0: Preparing DNase mix
 
