@@ -26,7 +26,7 @@ A protocol for high-yield, HMW (>40-50 Kbp) gDNA extraction developed by Andrés
 -	Heating blocks are not to be trusted. Always confirm that the heat block has actually reached set temperature with a thermometer and adjust accordingly.
 -	13,300 rpm = 17,000 g
 
-## Protocol
+## Workflow
 
 ### Part 1: Sample lysis and protein digestion
 
