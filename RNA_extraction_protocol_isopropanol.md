@@ -43,4 +43,4 @@ This is the Ross lab protocol for total RNA extraction without a commercial kit.
 
 13.	Post extraction (optional):
     * residual gDNA digestion: we use Thermo Scientific's DNAse I with RNasin as a RNAse inhibitor (0.25 ul per 10ul of reaction, 1U/ul)
-    * RNA cleanup: we use RNA Clean & Concentrator™-5 (Zymo)
+    * post digestion RNA cleanup: we use RNA Clean & Concentrator™-5 (Zymo)
