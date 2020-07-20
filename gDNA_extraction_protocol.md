@@ -1,7 +1,7 @@
 # gDNA extraction protocol
 
 ## Information
-A protocol for high-yield, HMW (>40-50 Kbp) gDNA extraction developed by Andrés G. de la Filia in the Konrad Lohse lab (IEB, The University of Edinburgh). This protocol was adapted from a previous version developed by Dominik Laetsch, the 10x Genomics Sample Preparation Demonstrated Protocol and the MagAttract HMW DNA Kit handbook. It was developed for single butterflies but has been successfully used for insect pools (mealybigs, flies) and mammalian tissue (mouse, toad, fish)
+A protocol for high-yield, HMW (>40-50 Kbp) gDNA extraction developed by Andrés G. de la Filia in the Konrad Lohse lab (IEB, The University of Edinburgh). This protocol was adapted from a previous version developed by Dominik Laetsch, the 10x Genomics Sample Preparation Demonstrated Protocol and the MagAttract HMW DNA Kit handbook. It was developed for single butterflies but has been successfully used for insect pools (mealybugs, flies) and mammalian tissue (mouse, toad, fish)
 
 ## Reagents and consumables
 - LoBind 1.5 ml tubes and filter tips (including low binding 200µl filter tips).
